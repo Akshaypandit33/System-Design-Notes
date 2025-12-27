@@ -1,0 +1,210 @@
+{
+  "main": {
+    "id": "e934ddd853f72a99",
+    "type": "split",
+    "children": [
+      {
+        "id": "0f16e48d97c9978b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e42a9755de0b45d0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "d0a0e93b47cb2bcd",
+    "type": "split",
+    "children": [
+      {
+        "id": "450a401b85c9e4ef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "57dcae8739350f97",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "792ddb1b7534a059",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "ad25b1f2537c72c0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "12f77a0a77d55a3c",
+    "type": "split",
+    "children": [
+      {
+        "id": "e188abd270d4cd6a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7597b8cac3799e41",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Untitled.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Untitled"
+            }
+          },
+          {
+            "id": "f3fac9af48d74647",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "System Design Fundamentals/1. Networking & Communication.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 1. Networking & Communication"
+            }
+          },
+          {
+            "id": "42f55deb5b228762",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "aa7811f02e037547",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "b5198247d56056b0",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Untitled.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Untitled"
+            }
+          },
+          {
+            "id": "f80c74afae3701b2",
+            "type": "leaf",
+            "state": {
+              "type": "mermaid-toolbar-view",
+              "state": {},
+              "icon": "trident-custom",
+              "title": "Mermaid Toolbar"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "mermaid-tools:Open Mermaid Toolbar": false
+    }
+  },
+  "active": "e42a9755de0b45d0",
+  "lastOpenFiles": [
+    "System Design Fundamentals/1. Networking & Communication.md",
+    "Untitled.base",
+    "System Design Fundamentals/Resources/Interview+Questions+-+IP+addresses.pdf",
+    "System Design Fundamentals/Resources/Unconfirmed 836345.crdownload",
+    "System Design Fundamentals/Resources",
+    "System Design Fundamentals/New folder",
+    "Untitled.md",
+    "Assets",
+    "System Design Fundamentals"
+  ]
+}
